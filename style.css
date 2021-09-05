@@ -46,3 +46,7 @@ body {
 	background-color: crimson;
 	height: 200px;
 }
+
+.hide {
+	display: none;
+}
