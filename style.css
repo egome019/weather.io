@@ -21,14 +21,25 @@ body {
 
 #header {
 	background-color: black;
-	height: 25%;
+	height: 150px;
 	width: 100%;
 	color: white;
 }
 
 #space-bar {
 	background-color: blue;
-	height: 200px;
+	height: 350px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#search-bar-container {
+	background-color: chartreuse;
+	height: 350px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 #footer {
