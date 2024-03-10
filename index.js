@@ -3,7 +3,7 @@ const url =
 const options = {
 	method: "GET",
 	headers: {
-		"X-RapidAPI-Key": "2411e78fb0mshecea44d59b4a7a0p176689jsnbaf309ca722b",
+		"X-RapidAPI-Key": "apikey",
 		"X-RapidAPI-Host": "ai-weather-by-meteosource.p.rapidapi.com",
 	},
 };
