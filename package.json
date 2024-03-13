@@ -1,0 +1,15 @@
+{
+  "name": "weather.io",
+  "version": "1.0.0",
+  "description": "Weather App",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "egome019",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
