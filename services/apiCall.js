@@ -1,3 +1,5 @@
+const API_KEY = process.env.API_KEY;
+
 export async function fetchCity() {
 	try {
 		const cityName = document.getElementById("cityName").value;
